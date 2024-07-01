@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "name": "dsda-doom.zip",
+  "items": [
+    "DSDA-Doom.sh",
+    "dsda-doom"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "DSDA-Doom",
+    "porter": [
+      "Omnisthetics"
+    ],
+    "desc": "DSDA-Doom is a successor of the Doom source port prboom+ with many new features.\n\nIncludes Doom 1 shareware/demo files. See instructions to use full version.",
+    "desc_md": null,
+    "inst": "Ready to play with Doom 1 shareware and demo files. To upgrade to a full Doom engine game, replace 'ports/dsda-doom/DOOM1.WAD' with an IWAD of your choice ('DOOM.WAD', 'DOOM2.WAD', 'HEXEN.WAD' etc.).\n\nTo play custom maps and mods, place mod files into the appropriate folder in 'ports/dsda-doom/conf/autoload' ('all-all' to load with any Doom engine game, 'doom-all' to only load with Doom 1 or 2, 'DOOM2.WAD' to only load with Doom 2 etc.).",
+    "inst_md": null,
+    "genres": [
+      "fps"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}

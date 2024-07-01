@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./DSDA-Doom.sh</path>
+    <name>DSDA-Doom</name>
+    <desc>DSDA-Doom is a successor of the Doom source port prboom+ with many new features.</desc>
+    <releasedate>20201111T000000</releasedate>
+    <developer>kraflab</developer>
+    <publisher>kraflab</publisher>
+    <genre>Shooter</genre>
+    <image>./dsda-doom/screenshot.png</image>
+  </game>
+</gameList>
